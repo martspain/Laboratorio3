@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laboratorio 3</string>
+    <string name="text_title">Tikal</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_info">
+        \n
+        Tikal es un sitio arqueológico maya situado en la región nororiental de Petén y uno de los más grandes \n
+        y más conocidos de la región. Cuenta con una superficie total de 120 kilómetros cuadrados, un sector \n
+        especial de 16 kilómetros cuadrados y alrededor de 13 500 estructuras conocidas (Diccionario Histórico \n
+        Biográfico de Guatemala, 2004).\n \n
+        Se calcula que Tikal albergó hasta un máximo de 90 000 habitantes en el momento de su apogeo \n
+        (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+        El Parque Nacional Tikal, creado en 1955, es una reserva natural de 576 kms cuadrados, y ha sido declarado\n
+        Monumento Nacional y Patrimonio Cultural de la Humanidad (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+        Tikal se asentó en varias elevaciones naturales de piedra caliza, las cuales llegan a los 50 metros \n
+        de altura. Dichas prominencias están rodeadas de zonas pantanosas llamadas “bajos”, las que posteriormente\n
+        fueron modificadas para crear “aguadas” o reservas de agua. Su ubicación corresponde a un punto central o \n
+        intermedio de la región maya y las Tierras Bajas Centrales, y constituía una posición estratégica para el \n
+        control del paso constante de productos provenientes del Río Usumacinta, del Océano Atlántico, del Río de \n
+        La Pasión y del Altiplano (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+    </string>
+    <string name="text_info2">
+        La ciudad de Santiago de los Caballeros de Guatemala, cuyo nombre oficial e histórico es Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros de Guatemala y popularmente nombrada en la actualidad como Antigua Guatemala, es cabecera del municipio homónimo y del departamento de Sacatepéquez, Guatemala; se ubica a aproximadamente 25 kilómetros al oeste de la capital de la República de Guatemala, y a una altitud de 1470 msnm. Actualmente la ciudad se ubica dentro de las 20 ciudades más importantes de Guatemala.
+
+        Durante la época colonial era conocida como «Santiago de los Caballeros de Guatemala», y fue la capital de la Capitanía General de Guatemala, entre 1541 y 1776, año en que la capital fue trasladada a la ciudad de Nueva Guatemala de la Asunción después de que los terremotos de Santa Marta arruinaran la ciudad por tercera ocasión en el mismo siglo y las autoridades civiles utilizaran eso como excusa para debilitar a las autoridades eclesiásticas —siguiendo las recomendaciones de las Reformas Borbónicas emprendidas por la corona española en la segunda mitad del siglo XVIII​ obligando a las órdenes regulares a trasladarse de sus majestuosos conventos a frágiles estructuras temporales en la nueva ciudad.
+    </string>
+
+
+</resources>
